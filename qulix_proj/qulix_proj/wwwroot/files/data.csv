@@ -1,0 +1,6 @@
+Name,Texts,CreatedAt,Cost,AuthorId,Author,NumberOfSales,Rating,Id
+"Personal","This is the text for personal","7/31/2022 7:42:57 AM","21","1","","24","5","1"
+"Personal1","This is the text for personal1","7/31/2022 7:42:57 AM","25","1","","4","3","2"
+"PersonaRate","This is the text for personarate","7/31/2022 7:42:57 AM","145","1","","1","5","3"
+"PersonaRate","This is the text for personarate","7/31/2022 7:42:57 AM","15","2","","11","5","4"
+"Book of year","Hello from string","7/31/2022 10:42:08 AM","1000","1","","140","5","5"

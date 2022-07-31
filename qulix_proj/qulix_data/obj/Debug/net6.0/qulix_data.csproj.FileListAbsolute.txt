@@ -1,0 +1,12 @@
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\bin\Debug\net6.0\qulix_data.deps.json
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\bin\Debug\net6.0\qulix_data.dll
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\bin\Debug\net6.0\qulix_data.pdb
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\qulix_data.csproj.AssemblyReference.cache
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\qulix_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\qulix_data.AssemblyInfoInputs.cache
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\qulix_data.AssemblyInfo.cs
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\qulix_data.csproj.CoreCompileInputs.cache
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\qulix_data.dll
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\refint\qulix_data.dll
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\qulix_data.pdb
+C:\Users\akhma\source\repos\qulix_proj\qulix_data\obj\Debug\net6.0\ref\qulix_data.dll
